@@ -1,4 +1,5 @@
-### Hello there 👋 My name is Artem Mozhegov
+### 👋 Hello there 
+### 🙂 My name is Artem Mozhegov
 
 <!--
 **amozhegov/amozhegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
