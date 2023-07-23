@@ -34,9 +34,12 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 |---|---|
 
 ## 🔬Projects I've Worked On:
-|---|---|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=Hackathon-BioDataUCO&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)]([https://github.com/MarcosRigal/Hackathon-BioDataUCO](https://github.com/amozhegov/russia-gdp-oil-gas-prices))|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=MongoDB-Benchmark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)]([https://github.com/MarcosRigal/MongoDB-Benchmark](https://github.com/amozhegov/russia-gdp-oil-gas-prices))|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarcia-UCO&repo=RubikCube_2021&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/cgarcia-UCO/RubikCube_2021)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=process-scheduler-simulator&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/process-scheduler-simulator)|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 
 
