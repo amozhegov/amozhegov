@@ -6,6 +6,7 @@ Computer Science Enthusiast (Data Science and Machine Learning)
 Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
 
 ## 🧠 Skills and Tools
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 - CSS
 - HTML
 
