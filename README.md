@@ -29,12 +29,12 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 - English
 - Spanish
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov)](https://github.com/anuraghazra/github-readme-stats)
-
+## 🚀 My Github Stats:
 ![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
 
 
 <!--
 Badges made with shields.io
+Stats made with https://github.com/anuraghazra/github-readme-stats
 **amozhegov/amozhegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
