@@ -18,7 +18,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 
 
-## OS & IDE
+## 💻 OS & IDE
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=Apple&logoColor=white&labelColor=black)
 ]()
