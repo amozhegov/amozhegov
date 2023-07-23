@@ -1,7 +1,7 @@
 # 👋 Hello there! My name is Artem 
 
-**Computer Science Enthusiast (Data Science and Machine Learning)
-**
+_Computer Science Enthusiast (Data Science and Machine Learning)
+_
 ## 🏫 Education
 Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
 
