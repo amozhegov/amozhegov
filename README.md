@@ -10,6 +10,9 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
   ![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=orange&color=orange)
   ![Static Badge](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/seaborn-white?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=darkblue&color=darkblue)
+![Static Badge](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=gray&color=gray)
+
 
 
 
