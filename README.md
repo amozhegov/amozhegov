@@ -3,7 +3,7 @@
 Computer Science Enthusiast (Data Science and Machine Learning) 
 
 ## 🏫 Education
-Master's Degree in Computational Intelligence and Internet of Things 
+Master's Degree in Computational Intelligence and Internet of Things at the [University of Córdoba](http://www.uco.es/), Spain.
 
 ## Skills
 Tensorflow
