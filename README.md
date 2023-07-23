@@ -2,8 +2,8 @@
 
 Computer Science Enthusiast (Data Science and Machine Learning) 
 
-## Education
-UCO
+## 🏫 Education
+Master's Degree in Computational Intelligence and Internet of Things 
 
 ## Skills
 Tensorflow
