@@ -31,7 +31,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov)](https://github.com/anuraghazra/github-readme-stats)
 
-![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs)
+![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
 
 
 <!--
