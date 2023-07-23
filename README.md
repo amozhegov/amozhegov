@@ -1,6 +1,6 @@
-## 👋 Hello there 👋 My name is Artem 🙂
+## Artem 
 
-### Computer Science Enthusiast (Data Science and Machine Learning) 
+### I am Computer Science Enthusiast (Data Science and Machine Learning) 
 
 Enthusiastic and ambitious Data Science and Machine Learning student at the University of Córdoba, Spain. 
 Dedicated to leveraging the power of data to change the world for the better.
