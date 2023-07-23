@@ -1,5 +1,4 @@
-## 👋 Hello there 
-## 🙂 My name is Artem 
+## 👋 Hello there 👋 My name is Artem 🙂
 
 ### Computer Science Enthusiast (Data Science and Machine Learning) 
 
