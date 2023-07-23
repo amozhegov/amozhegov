@@ -34,8 +34,8 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 |---|---|
 
 ## 🔬Projects I've Worked On:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/amozhegov/russia-gdp-oil-gas-prices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=russia-gdp-oil-gas-prices&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
