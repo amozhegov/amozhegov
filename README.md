@@ -12,10 +12,8 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 ![Static Badge](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/seaborn-white?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=darkblue&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=gray&color=gray)
-
-
-
-
+![Static Badge](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow&logoColor=orange&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white&labelColor=red&color=red)
 
 
 ## 💻 OS & IDE
@@ -32,6 +30,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 - Spanish
 
 <!--
+Badges made with shields.io
 **amozhegov/amozhegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
