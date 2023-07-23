@@ -6,11 +6,11 @@ Computer Science Enthusiast (Data Science and Machine Learning)
 Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
 
 ## 🧠 Skills and Tools
-Tensorflow
-HTML
+- CSS
+- HTML
 
-## 🧠 Languages
--English
+## 🌍 Languages
+- English
 - Spanish
 
 <!--
