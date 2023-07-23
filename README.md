@@ -30,9 +30,9 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 - Spanish
 
 ## 🚀 My Github Stats:
-![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
-![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov)](https://github.com/amozhegov/amozhegov)
+|![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov)](https://github.com/amozhegov/amozhegov)|
+|---|---|
 
 
 
