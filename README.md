@@ -1,9 +1,13 @@
-# Hello there! I am Artem 👋
+# Hello there! My name is Artem 👋
 
 Computer Science Enthusiast (Data Science and Machine Learning) 
 
 ## Education
-# UCO
+UCO
+
+## Skills
+Tensorflow
+HTML
 
 
 <!--
