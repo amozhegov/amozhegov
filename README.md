@@ -31,8 +31,9 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 ## 🚀 My Github Stats:
 ![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
+![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
 
-![](https://github-readme-stats.vercel.app/api?username=amozhegov&hide=contribs,prs,stars,issues)
+|---|---|
 
 
 <!--
