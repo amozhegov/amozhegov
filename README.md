@@ -7,8 +7,9 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 ## 🧠 Skills and Tools
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-- CSS
-- HTML
+  ![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=orange&color=blue)
+
+
 
 ## OS & IDE & Tools
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
