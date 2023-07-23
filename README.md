@@ -1,4 +1,4 @@
-## Hello there! I am Artem 👋
+# Hello there! I am Artem 👋
 
 ### Computer Science Enthusiast (Data Science and Machine Learning) 
 
