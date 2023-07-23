@@ -37,8 +37,8 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 <a href="https://github.com/amozhegov/russia-gdp-oil-gas-prices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=russia-gdp-oil-gas-prices&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/amozhegov/toxic-comments-detection-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=toxic-comments-detection-ML&theme=buefy" />
 </a>
 
 
