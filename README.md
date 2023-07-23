@@ -5,10 +5,13 @@ Computer Science Enthusiast (Data Science and Machine Learning)
 ## 🏫 Education
 Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
 
-## Skills
+## 🧠 Skills and Tools
 Tensorflow
 HTML
 
+## 🧠 Languages
+-English
+- Spanish
 
 <!--
 **amozhegov/amozhegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
