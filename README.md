@@ -33,7 +33,10 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 |![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true&hide=contribs,prs,stars,issues)|[![amozhegov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
 |---|---|
 
-
+## 🔬Projects I've Worked On:
+|---|---|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=Hackathon-BioDataUCO&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)]([https://github.com/MarcosRigal/Hackathon-BioDataUCO](https://github.com/amozhegov/russia-gdp-oil-gas-prices))|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=MongoDB-Benchmark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)]([https://github.com/MarcosRigal/MongoDB-Benchmark](https://github.com/amozhegov/russia-gdp-oil-gas-prices))|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarcia-UCO&repo=RubikCube_2021&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/cgarcia-UCO/RubikCube_2021)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=process-scheduler-simulator&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/process-scheduler-simulator)|
 
 
 
