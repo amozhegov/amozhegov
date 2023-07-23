@@ -33,6 +33,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 |![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true&hide=contribs,prs,stars,issues)|[![amozhegov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
 |---|---|
 
+
 ## 🔬Projects I've Worked On:
 <a href="https://github.com/amozhegov/russia-gdp-oil-gas-prices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=russia-gdp-oil-gas-prices&theme=buefy" />
