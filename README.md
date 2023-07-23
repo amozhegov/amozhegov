@@ -12,7 +12,8 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 ## OS & IDE & Tools
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![macOS](https://img.shields.io/badge/macOS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=Apple&logoColor=white&labelColor=black)
+)]()
 [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
