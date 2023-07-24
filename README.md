@@ -14,7 +14,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 ![Static Badge](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=gray&color=gray)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow&logoColor=orange&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white&labelColor=red&color=red)
-![Static Badge](https://img.shields.io/badge/HTML%205-lightgray?style=for-the-badge&logo=html5&logoColor=white&color=red)
+![Static Badge](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=blue&color=blue)
 
 ## 💻 OS & IDE
