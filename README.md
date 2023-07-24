@@ -7,14 +7,15 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 ## 🧠 Skills and Tools
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=gold&labelColor=blue&color=blue)
-  ![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=orange&color=orange)
-  ![Static Badge](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=orange&color=orange)
+![Static Badge](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/seaborn-white?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=darkblue&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=gray&color=gray)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow&logoColor=orange&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white&labelColor=red&color=red)
-
+![Static Badge](https://img.shields.io/badge/HTML%205-lightgray?style=for-the-badge&logo=html5&logoColor=white&color=red)
+![Static Badge](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=blue&color=blue)
 
 ## 💻 OS & IDE
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -32,7 +33,6 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 ## 🚀 My Github Stats:
 
 ![amozhegov's GitHub stats](https://github-readme-stats.vercel.app/api?username=amozhegov&show_icons=true&theme=transparent&hide=contribs,prs,stars,issues)![amozhegov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amozhegov&show_icons=true&theme=transparent)
-
 
 
 ## 🔬Projects I've Worked On:
