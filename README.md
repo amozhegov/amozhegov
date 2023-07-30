@@ -14,6 +14,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 ![Static Badge](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=gray&color=gray)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow&logoColor=orange&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white&labelColor=red&color=red)
+![Static Badge](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django)
 ![Static Badge](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue&color=blue)
 
@@ -50,6 +51,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 
 <!--
 Badges made with shields.io
+Badge icons made with simpleicons.org/
 Stats made with https://github.com/anuraghazra/github-readme-stats
 **amozhegov/amozhegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
