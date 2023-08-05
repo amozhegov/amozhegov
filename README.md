@@ -8,6 +8,7 @@ Master's Degree in **Computational Intelligence and Internet of Things** at the 
 ## 🧠 Skills and Tools
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=gold&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django)
+![Static Badge](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=orange&color=orange)
