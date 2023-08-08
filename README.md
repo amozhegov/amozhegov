@@ -1,7 +1,5 @@
 # 👋 Hello there! My name is Artem 
 
-Computer Science Enthusiast
-
 ## 🏫 Education
 Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
 
