@@ -1,8 +1,5 @@
 # 👋 Hello there! My name is Artem 
 
-## 🏫 Education
-Master's Degree in **Computational Intelligence and Internet of Things** at the [University of Córdoba](http://www.uco.es/), Spain.
-
 ## 🧠 Skills and Tools
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=gold&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django)
