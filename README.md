@@ -37,8 +37,8 @@
 -->
 
 ## 🔬Projects I've Worked On:
-<a href="https://github.com/amozhegov/russia-gdp-oil-gas-prices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=russia-gdp-oil-gas-prices&theme=buefy" />
+<a href="https://github.com/amozhegov/DL-comment-classification-RNN-IMDb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=DL-comment-classification-RNN-IMDb&theme=buefy" />
 </a>
 <a href="https://github.com/amozhegov/toxic-comments-detection-ML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amozhegov&repo=toxic-comments-detection-ML&theme=buefy" />
